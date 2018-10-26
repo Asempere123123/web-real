@@ -29,7 +29,7 @@ width:475;
 position:relative;
 left:-500;
 }
-@media (max-width: 1080px) {
+
 .anunciomemes img{
 position:relative;
 left:300px;
@@ -63,10 +63,10 @@ header{background-color: #99e6ff;
        border-radius: 0px;
        margin-right: -10px;
        margin-left: -5x;
-       height: 60px;
+       height: 70px;
        width: 100%;
        margin-right: 0px;
-       top: 0;
+       top: 2px;
        opacity: 0,2;}
 
 footer{ background-color: black;
