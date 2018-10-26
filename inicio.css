@@ -1,7 +1,6 @@
 html{
 font-family: 'Open Sans', sans-serif;
-background-color:#F20A63;
-margin:3px;
+
 }
 .galletas_maria{
 position:relative;
@@ -62,8 +61,6 @@ html{background-color: white;
 
 header{background-color: #99e6ff;
        border-radius: 0px;
-       margin-top: -8px;
-       margin-bottom: -20px; 
        margin-right: -10px;
        margin-left: -5x;
        height: 60px;
