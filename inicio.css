@@ -47,10 +47,10 @@ visibility: visible;
 }
 .scroll{
 width:320px;
-height: 100px;
+height: 500px;
 overflow:scroll;
 position: absolute;
-left:-505px;
+left:-510px;
 }
 /* Para todo html*/
 
