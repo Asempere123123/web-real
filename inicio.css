@@ -47,9 +47,9 @@ visibility: visible;
 }
 .scroll{
 width:320px;
-height:250  ;
+height: 100px;
 overflow:scroll;
-position:relative;
+position: absolute;
 left:-505px;
 }
 /* Para todo html*/
@@ -63,7 +63,7 @@ header{background-color: #99e6ff;
        border-radius: 0px;
        margin-right: -10px;
        margin-left: -5x;
-       height: 70px;
+       height: 50px;
        width: 100%;
        margin-right: 0px;
        top: 2px;
