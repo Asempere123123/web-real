@@ -49,7 +49,7 @@ visibility: visible;
 width:320px;
 height: 100px;
 overflow:scroll;
-position: absolute;
+position:relative;
 left:-510px;
 }
 /* Para todo html*/
