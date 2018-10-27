@@ -38,18 +38,16 @@ left:300px;
 position:relative;
 left:300px;
 }
-html{
-background-color:aquamarine;
-}
+
 .magik{
 visibility: visible;
 }
-}
+
 .scroll > ul{
 width:380px;
 height: 200px;
 overflow:scroll;
-position:relative;
+position: absolute;
 }
 /* Para todo html*/
 
@@ -287,7 +285,7 @@ visibility: visible;}
   width: 280px;
 height: 300px;
 overflow:scroll;
-  left: 300px;
+  left: 956px;
   top: 35px;
   visibility: visible;
 }
