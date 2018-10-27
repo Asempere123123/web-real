@@ -281,11 +281,11 @@ visibility: visible;}
   list-style-type: none;
   padding: 0;
   margin: 0;
-  position: relative;
+  position: absolute;
   width: 280px;
 height: 300px;
 overflow:scroll;
-  left: 956px;
+  left: 980px;
   top: 35px;
   visibility: visible;
 }
