@@ -43,12 +43,7 @@ left:300px;
 visibility: visible;
 }
 
-.scroll > ul{
-width:380px;
-height: 200px;
-overflow:scroll;
-position: absolute;
-}
+
 /* Para todo html*/
 
 h1{text-align: center;}
