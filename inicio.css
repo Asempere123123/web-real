@@ -363,33 +363,4 @@ overflow:scroll;
 
 
 
-.didvmenu{
-margin:auto;
-width: 120px;
-position: absolute;
-left: 1230px;
-top:-17px;
-font-family: 'Open Sans', sans-serif;   
-}
-ul,ol{
-list-style:none;
-}
-.nav li a{
-background-color:#000;
-visibility: hidden;    
-color:#fff;
-text-decoration:none;
-padding:10px 15px;
-display:block;    
-}
 
-::placeholder { 
-    color: white;
-    opacity: 0.3;
-    font-size: 30px;}
-}
-
-.menuhamburguesa{
-                 float:right;
-                 height: 25px;
-                 width:25px;}
