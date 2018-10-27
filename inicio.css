@@ -46,8 +46,8 @@ visibility: visible;
 }
 }
 .scroll > ul{
-width:320px;
-height: 300px;
+width:380px;
+height: 200px;
 overflow:scroll;
 position:relative;
 }
@@ -287,7 +287,7 @@ visibility: visible;}
   width: 280px;
 height: 300px;
 overflow:scroll;
-  left: 978px;
+  left: 300px;
   top: 35px;
   visibility: visible;
 }
