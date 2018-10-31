@@ -227,8 +227,11 @@ visibility: visible;}
 #myUL li a:hover:not(.header) {
   background-color: #eee;
 }
-.scroll{ overflow: scroll;}
-          #myUL {
+.scroll{ overflow: scroll;
+         height: 150px;}
+        
+
+#myUL {
    list-style-type: none;
   padding: 0;
   margin: 0;
