@@ -241,12 +241,10 @@ overflow:scroll;
   visibility: visible;
 }
 
- #myUL > option {
-  background: #D3D3D3;
-  color: black;
+
 
 #myUL li a {
-  border: 1px solid #ddd;
+
   margin-top: -1px; /* Prevent double borders */
   background-color: #f6f6f6;
   padding-top: 8px;
