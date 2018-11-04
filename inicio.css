@@ -262,6 +262,9 @@ visibility: visible;}
 
 @media (max-width: 270px) { 
  
+       html{ background-color: red;}
+       
+       
  header{
      heigth: 25%;
      }
