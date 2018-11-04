@@ -267,29 +267,30 @@ visibility: visible;}
        margin-bottom: -20px;
        margin-right: -10px;
        margin-left: -5x;
-       height: 85px;
+       height: 25%;
        width: 100%;}
     
     .titulo2{ color: orange;
               visibility: hidden;
      }
- .buscabarra {float: right;
-             margin-left:0px;
+
+       
+        #myInput {float: right;
+             margin-left: 0px;
              margin-right: 10px;
-             margin-top: 15px;
-             height: 50px;
+             margin-top: 10px;
+             height: 25%;
              background-color: gray;
              color: white;
              font-size: 20px;
              border: 5px white;
              border-radius: 15px ;
-             width: 90%;
+             width: 280px;
              position: relative;
-             left: -90px;
+             left: 90p%;
              padding-right: 5px;
-             padding-left: 5px;
-             font-size:30px;
-             }
+             padding-left: 8px;
+visibility: visible;}
 
 
 .botonmenu{
