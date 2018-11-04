@@ -275,7 +275,8 @@ visibility: visible;}
      }
 
        
-        #myInput {float: right;
+       #myInput {
+             position: absolute;
              margin-left: 0px;
              margin-right: 10px;
              margin-top: 10px;
@@ -287,7 +288,7 @@ visibility: visible;}
              border-radius: 15px ;
              width: 280px;
              position: relative;
-             left: 90p%;
+             left: 25%;
              padding-right: 5px;
              padding-left: 8px;
 visibility: visible;}
