@@ -260,7 +260,7 @@ visibility: visible;}
   background-color: #eee;
 }
 
-@media (max-width: 320px) { 
+@media (max-width: 270px) { 
  
  header{
      heigth: 25%;
